@@ -1,5 +1,6 @@
 # Project Title:  Professional README Generator ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-## Description :  When creating an open source project in GitHub, it is essential to have a high-quality README for the app.  This application will allow you to quickly and easily create a README file for your application.  Using Node.js and the command-line you will be able to answer the following questions about your application:  What is the application for?  How do I use the application? How do I install the application?  How do I report issues about the application? How do I make contributions to the application?  Professional README Generator will allow you to spend more time doing what you love...coding!
+## Description
+When creating an open source project in GitHub, it is essential to have a high-quality README for the app.  This application will allow you to quickly and easily create a README file for your application.  Using Node.js and the command-line you will be able to answer the following questions about your application:  What is the application for?  How do I use the application? How do I install the application?  How do I report issues about the application? How do I make contributions to the application?  Professional README Generator will allow you to spend more time doing what you love...coding!
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
