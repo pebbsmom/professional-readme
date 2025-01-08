@@ -1,5 +1,6 @@
-# Project Title:  Professional README Generator ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-## Description :  When creating an open source project in GitHub, it is essential to have a high-quality README for the app.  This application will allow you to quickly and easily create a README file for your application.  Using Node.js and the command-line you will be able to answer the following questions about your application:  What is the application for?  How do I use the application? How do I install the application?  How do I report issues about the application? How do I make contributions to the application?  Professional README Generator will allow you to spend more time doing what you love...coding!
+# Project Title: Professional README Generator ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+## Description 
+ When creating an open source project in GitHub, it is essential to have a high-quality README for the app.  This application will allow you to quickly and easily create a README file for your application.  Using Node.js and the command-line you will be able to answer the following questions about your application:  What is the application for?  How do I use the application? How do I install the application?  How do I report issues about the application? How do I make contributions to the application?  Professional README Generator will allow you to spend more time doing what you love...coding!
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -14,9 +15,9 @@
 ## License
     This project is licensed under the MIT license. [MIT](https://opensource.org/licenses/MIT)
 ## Contributing
-If you would like to show me how you are using this application or have any questions, please contact me via email or my GitHub account in the Questions section below.
+generateMarkdown.js was created with assistance from Copilot in order to get information about licenses.  If you would like to contribute to the project, please see contact information in the Questions section below.
 ## Tests
- In order to test the application, please respond to each of the question prompts.  Please check your new README file to make sure that all your responses were saved correctly.
+In order to test the application, please respond to each of the question prompts.  Please check your new README file to make sure that all your responses were saved correctly.
 ## Questions
 To reach me with additional questions please contact me at:
 perezteri@hotmail.com  
