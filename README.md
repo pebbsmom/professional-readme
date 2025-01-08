@@ -19,7 +19,7 @@ When creating an open source project in GitHub, it is essential to have a high-q
 ## License
     This project is licensed under the MIT license. [MIT](https://opensource.org/licenses/MIT)
 ## Contributing
-generateMarkdown.js was created with assistance from Copilot in order to get information about licenses. 
+generateMarkdown.js was created with assistance from Copilot in order to get information about licenses.  If you would like to contribute to the project, please see contact information in the Questions section below.
 
 ## Tests
  In order to test the application, please respond to each of the question prompts.  Please check your new README file to make sure that all your responses were saved correctly.
